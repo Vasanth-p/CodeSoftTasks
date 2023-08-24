@@ -1,4 +1,6 @@
 CODESOFT TASK--1
+![image](https://github.com/boomikabe/UI-UX-Design-Task-1/assets/141221902/45af18b9-7b7a-4ebf-8504-f609bb5059f4)# UI/UX Design Task 1
+
 # UI/UX Design Task 1
 
 This repository contains the UI/UX design for a login and sign-up flow created using Figma.
