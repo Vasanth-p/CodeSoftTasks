@@ -35,6 +35,20 @@ Explore a Culinary Journey and Featured Delights
 
 - Figma: [Link to Figma](https://www.figma.com/file/A6kaimWHJ9612IbYGlM4Wm/CODSOFT-TASK-3?type=design&t=hyD1DfclpJ5inexf-6)
 
+
+
+CODESOFT TASK--3
+# UI-UX-Design-Task-4
+UI/UX design Figma.
+
+## Design Screenshots
+
+![View UI](task4.png)
+
+Figma: [Link to Figma](https://www.figma.com/file/mfEtVWmblHnBRFGiMrAZss/CodSoft-Task-4?type=design&t=hyD1DfclpJ5inexf-6)
+
+
+
 ## Key Features
 The design encompasses the following key features:
 
