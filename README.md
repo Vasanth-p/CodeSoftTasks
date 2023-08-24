@@ -24,6 +24,17 @@ This provides a comprehensive look at the content and purpose of your weekly new
 
 Figma: [Link to Figma](https://www.figma.com/file/r68cdp9GklDpES8gUsu3Pz/CodSoft-Task-2?type=design&node-id=0-1&mode=design&t=z6SWnIqJzPpTVBZ2-0)
 
+
+CODESOFT TASK--3
+
+# UI-UX-Design-Task-3
+Explore a Culinary Journey and Featured Delights
+
+## Design Screenshots
+![Online Menu ](task3.png)
+
+- Figma: [Link to Figma](https://www.figma.com/file/A6kaimWHJ9612IbYGlM4Wm/CODSOFT-TASK-3?type=design&t=hyD1DfclpJ5inexf-6)
+
 ## Key Features
 The design encompasses the following key features:
 
