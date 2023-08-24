@@ -1,5 +1,6 @@
 CODESOFT TASK--1
 ![image](https://github.com/boomikabe/UI-UX-Design-Task-1/assets/141221902/45af18b9-7b7a-4ebf-8504-f609bb5059f4)# UI/UX Design Task 1
+![View Image](task1.png)
 
 # UI/UX Design Task 1
 
