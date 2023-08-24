@@ -13,6 +13,14 @@ Welcome to the UI/UX design project for a modern login and sign-up flow, develop
 
 - Figma: [Link to Figma](https://www.figma.com/file/gUUh1Hs0lzlBDhHtNJfptk/CodSoft-Task1?type=design&t=hyD1DfclpJ5inexf-6)
 - The design was created using Figma, a versatile design and prototyping tool. Figma's collaborative features allowed for efficient teamwork and iterative design improvements.
+- CODESOFT TASK--2
+# UI-UX-Design-Task-2
+This provides a comprehensive look at the content and purpose of your weekly newsletter, showcasing the excitement of new features while emphasizing user engagement and customization.
+
+## Design Screenshots
+![View Image](task2.png)
+
+Figma: [Link to Figma](https://www.figma.com/file/r68cdp9GklDpES8gUsu3Pz/CodSoft-Task-2?type=design&t=hyD1DfclpJ5inexf-6)
 
 ## Key Features
 The design encompasses the following key features:
